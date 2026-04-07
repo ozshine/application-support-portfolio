@@ -1,5 +1,4 @@
-# Case 2 Postman Request Example
-
+# Case 2 	
 ## Collection Name
 Support API Troubleshooting
 
@@ -31,4 +30,4 @@ Example Error Response
 Interpretation
 401 Unauthorized suggests an authentication issue 
 if request fails in Postman as well as in app, issue is likely not just UI-related 
-likely causes: expired token, missing token, invalid environment config 
+likely causes: expired token, missing token, invalid environment config 
