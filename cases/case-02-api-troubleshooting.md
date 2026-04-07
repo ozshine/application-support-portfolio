@@ -75,7 +75,7 @@ This case demonstrates my ability to:
 - write concise escalation-ready summaries  
 
 ## Related Files
-- sql/case-02-api-request-log-check.sql`
-- postman/case-02-postman-request.md`
-- samples/case-02-issue-template.md`
-- samples/case-02-escalation-note.md`
+- `sql/case-02-api-request-log-check.sql`
+- `postman/case-02-postman-request.md`
+- `samples/case-02-issue-template.md`
+- `samples/case-02-escalation-note.md`
